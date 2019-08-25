@@ -8,9 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
->jfi 
 
 # Header 1
 
@@ -40,5 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzgzMTE5MV19
+eyJoaXN0b3J5IjpbLTE1Nzk3ODkwMzldfQ==
 -->
