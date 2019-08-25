@@ -7,8 +7,8 @@
   * [使用插件](zh-cn/plugins.md)
   * [Markdown 配置](zh-cn/markdown.md)
   * [欢迎](zh-cn/Welcome-file.md)
-* 0824
-  * [欢迎](zh-cn/2019-08-26 00:14:46.md)
+* 每日bibi
+  * [2019-08-26](zh-cn/2019-08-26.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTIyMjYxNV19
+eyJoaXN0b3J5IjpbMTE2NzcxMjUzOF19
 -->
