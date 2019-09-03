@@ -12,6 +12,7 @@
   * [2019-08-30-1](every-day/2019-08-30-1.md)
   * [2019-08-30-2](every-day/2019-08-30-2.md)
   * [2019-09-02](every-day/2019-09-02.md)
+  * [2019-09-03](every-day/2019-09-03.md)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc1OTIxMzQ3NF19
 -->
