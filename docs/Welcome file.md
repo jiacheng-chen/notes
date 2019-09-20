@@ -21,14 +21,14 @@ StackEdit存储您的文件在您的浏览器，这意味着您的所有文件�
 
 ## 删除文件
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+您可以通过单击文件资源管理器中的**删除**按钮来删除当前文件。该文件将被移动到** Trash **文件夹中，并在7天不活动后自动删除。
 
-## Export a file
+## 导出文件
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+您可以通过单击菜单中的**导出到磁盘**来导出当前文件。您可以选择将文件导出为纯降价，使用把手模板或PDF作为HTML导出。
 
 
-# Synchronization
+＃同步
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
@@ -142,5 +142,5 @@ B  - > D {菱形}
 C  - > D```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTc3Nzk0OF19
+eyJoaXN0b3J5IjpbMTUxMjgwMDA5XX0=
 -->
