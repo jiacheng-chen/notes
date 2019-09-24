@@ -16,6 +16,8 @@
   * [2019-09-05-1](every-day/2019-09-05-1.md)
   * [2019-09-05-2](every-day/2019-09-05-2.md)
   * [2019-09-20-1](every-day/2019-09-20-1.md)
+  * [2019-09-24](every-day/2019-09-24.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODA2MTI2NywtNzU5MjEzNDc0XX0=
+eyJoaXN0b3J5IjpbLTYxMjMyMzQ2MCwxNTg4MDYxMjY3LC03NT
+kyMTM0NzRdfQ==
 -->
