@@ -17,9 +17,9 @@
   * [2019-09-05-2](every-day/2019-09-05-2.md)
   * [2019-09-20-1](every-day/2019-09-20-1.md)
  * [看听](read-listen/)
-	  * [2019-09-24](every-day/2019-09-24.md)
-	  * [2019-09-25](every-day/2019-09-25.md)
+	  * [2019-09-24](read-listen/2019-09-24.md)
+	  * [2019-09-25](read-listen/2019-09-25.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mjc0NTcxOCwxNTg4MDYxMjY3LC03NT
-kyMTM0NzRdfQ==
+eyJoaXN0b3J5IjpbNDIyMjQ2NTM4LDE1ODgwNjEyNjcsLTc1OT
+IxMzQ3NF19
 -->
