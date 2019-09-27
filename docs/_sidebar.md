@@ -21,7 +21,9 @@
 	  * [2019-09-25](read-listen/2019-09-25.md)
 	  * [2019-09-26](read-listen/2019-09-26.md)
 	  * [2019-09-27](read-listen/2019-09-27.md)
+	  * [2019-09-28](read-listen/2019-09-28.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4OTY3MDE2LC0xNTgzODQ4MDE5LDQyMj
-I0NjUzOCwxNTg4MDYxMjY3LC03NTkyMTM0NzRdfQ==
+eyJoaXN0b3J5IjpbMTYwMzc5NjM2Myw2NDg5NjcwMTYsLTE1OD
+M4NDgwMTksNDIyMjQ2NTM4LDE1ODgwNjEyNjcsLTc1OTIxMzQ3
+NF19
 -->
