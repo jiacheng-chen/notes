@@ -24,9 +24,9 @@
 	  * [2019-09-28](read-listen/2019-09-28.md)
 	  * [2019-09-29](read-listen/2019-09-29.md)
  * [python爬虫](python-scrapy/)
-	 * [2019-09-29](read-listen/2019-09-29.md)
+	 * [教学大纲](python-scrapy/2019-10-15.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzkyNjAxNSwtMTg2MTcyNjY1MCwxNj
+eyJoaXN0b3J5IjpbMjA2ODgxOTYxNywtMTg2MTcyNjY1MCwxNj
 AzNzk2MzYzLDY0ODk2NzAxNiwtMTU4Mzg0ODAxOSw0MjIyNDY1
 MzgsMTU4ODA2MTI2NywtNzU5MjEzNDc0XX0=
 -->
