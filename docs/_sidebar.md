@@ -23,8 +23,10 @@
 	  * [2019-09-27](read-listen/2019-09-27.md)
 	  * [2019-09-28](read-listen/2019-09-28.md)
 	  * [2019-09-29](read-listen/2019-09-29.md)
+ * [python爬虫](python-scrapy/)
+	 * [2019-09-29](read-listen/2019-09-29.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE3MjY2NTAsMTYwMzc5NjM2Myw2ND
-g5NjcwMTYsLTE1ODM4NDgwMTksNDIyMjQ2NTM4LDE1ODgwNjEy
-NjcsLTc1OTIxMzQ3NF19
+eyJoaXN0b3J5IjpbLTU2MzkyNjAxNSwtMTg2MTcyNjY1MCwxNj
+AzNzk2MzYzLDY0ODk2NzAxNiwtMTU4Mzg0ODAxOSw0MjIyNDY1
+MzgsMTU4ODA2MTI2NywtNzU5MjEzNDc0XX0=
 -->
